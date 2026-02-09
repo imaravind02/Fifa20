@@ -1,15 +1,15 @@
 # FIFA20 Data Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing the FIFA 20 player dataset to extract meaningful insights about players, teams, performance metrics, and market values. The goal is to apply data science techniques such as data cleaning, exploratory data analysis (EDA), and visualization.
 
-## 🎯 Objectives
+## Objectives
 - Understand player attributes and performance indicators
 - Analyze player value, wages, and ratings
 - Identify top players and clubs
 - Visualize trends and patterns in the dataset
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -17,13 +17,7 @@ This project focuses on analyzing the FIFA 20 player dataset to extract meaningf
 - Seaborn
 - Jupyter Notebook
 
-## 📂 Project Structure
-- PRCP-1004-Fifa20.ipynb
-- data/
-- images/
-- README.md
-
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 - Data Cleaning & Preprocessing
 - Handling missing values
 - Feature selection
@@ -32,26 +26,19 @@ This project focuses on analyzing the FIFA 20 player dataset to extract meaningf
 - Club-wise analysis
 - Visualization dashboards
 
-## 📊 Sample Insights
+## Sample Insights
 - Top rated players
 - Highest paid players
 - Most valuable players
 - Club-wise performance distribution
 
-## 🚀 How to Run the Project
-```bash
-pip install -r requirements.txt
-jupyter notebook PRCP-1004-Fifa20.ipynb
-```
-
-## 📈 Future Enhancements
+## Future Enhancements
 - Machine learning model for player value prediction
 - Interactive dashboard using Power BI or Streamlit
 - Advanced clustering of players
 
-## 👨‍💻 Author
-Aravind M
+## Author
+**Aravindhan M**  
+Data Science | Machine Learning | Power BI
 
----
-*This project is part of a Data Science & Machine Learning learning program.*
 
